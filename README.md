@@ -1,8 +1,9 @@
-**Name:** Ashutosh Goyal
-**Company:** CODTECH IT SOLUTIONS
-**ID:** CT6WDS1538
-**Domain:** CYBER SECURITY AND ETHICAL HACKING
-**Duration:** Aug to Sep 2024
+**Name:** Ashutosh Goyal,  
+**Company:** CODTECH IT SOLUTIONS,  
+**ID:** CT6WDS1538 ,  
+**Domain:** CYBER SECURITY AND ETHICAL HACKING,  
+**Duration:** Aug to Sep 2024,  
+
 
 ##Project Overview: Password Strength Checker
 Project: Password Strength Checker.
