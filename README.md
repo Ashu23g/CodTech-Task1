@@ -1,11 +1,11 @@
-Name - Ashutosh Goyal
-Company- CODTECH IT SOLUTIONS
-ID- CT6WDS1538
-Domain- CYBER SECURITY AND ETHICAL HACKING
-Duration- Aug to Sep 2024
+**Name:** Ashutosh Goyal
+**Company:** CODTECH IT SOLUTIONS
+**ID:** CT6WDS1538
+**Domain:** CYBER SECURITY AND ETHICAL HACKING
+**Duration:** Aug to Sep 2024
 
-Project Overview: Password Strength Checker
-
+##Project Overview: Password Strength Checker
+Project: Password Strength Checker.
 Objective:
 The goal of this project is to develop a Python script that evaluates the strength of a user's password based on several criteria. It provides feedback on whether the password is strong or weak and suggests areas for improvement if it doesn't meet certain standards.
 
